@@ -16,7 +16,7 @@ The dataset includes various properties of applications on the Google Play Store
 - Detailed Explaration and Manipulation on Dataset Features
 - Data Visualization - Research Queries and Analytical Insights
 
-# This project assisted users in identifying their most beneficial apps in the Play Store by answering the following questions:
+***This project assisted users in identifying their most beneficial apps in the Play Store by answering the following questions:***
 
 **1.What are the top categories in terms of the number of apps?**
 
